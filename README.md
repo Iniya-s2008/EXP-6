@@ -1,4 +1,4 @@
-# EXP-6
+![lvdt grap](https://github.com/user-attachments/assets/623cee59-455e-43f7-8ea2-34e2af5328be)# EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
@@ -8,7 +8,9 @@ APPARATUS: - LVDT kit, Multimeter
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
-CIRCUIT DIAGRAM
+![lvdt grap](https://github.com/user-attachments/assets/2d9f971b-7df9-487e-9520-dc4efe820f0b)
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,6 +20,8 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+![lvdt tab](https://github.com/user-attachments/assets/96297ce6-602c-44d6-801d-8f93e68b501d)
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
